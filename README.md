@@ -10,7 +10,7 @@ $ cd ECommerceEspol
 ### 2. Configurar MongoDB
 
 - Local MongoDB
-  - Instalar desde [here](https://www.mongodb.com/try/download/community)
+  - Instalar desde [aquí](https://www.mongodb.com/try/download/community)
   - Crear archivo .env en el root folder
   - Setear MONGODB_URL=mongodb://localhost/ecommerceespol  
 - Atlas Cloud MongoDB
@@ -43,5 +43,5 @@ $ npm start
 
 ### 6. Admin Login
 
-- EN Chrome: http://localhost:3000/signin
+- En Chrome: http://localhost:3000/signin
 - Ingresar enail y contraseña para iniciar sesión
